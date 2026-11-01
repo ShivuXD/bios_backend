@@ -1,0 +1,1 @@
+{"ops":[{"opId":"srv-1","deviceId":"A","userId":"u1","scopeId":"area-1","hlcPhysical":1000,"hlcCounter":0,"hlcNode":"A","entityType":"temperature","entityId":"patient-42","payloadJson":"{\"takenAt\":\"10:00\",\"value\":38.2}","formatVersion":1,"hash":"wrong"}]}
